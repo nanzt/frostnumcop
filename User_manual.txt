@@ -1,0 +1,27 @@
+FROSTNUM/COP
+developed using R-4.1.1
+
+--------------
+Run on windows:
+run 'FROSTNUMCOP_sample.R'
+
+--------------
+SET UPs (in FROSTNUMCOP_sample.R)
+
+parameters:
+n_size: the size of the neighboring cells when defining boundary cell
+weight.kappa and weight.boundary: weights of overall consistency and boundary consistency in the objective function
+n_iters: maximum iterations in PSO
+
+inputs:
+soil cluster distribution (.tif)
+survey-based permafrost map (.tif)
+thawing and freezing indices (.tif)
+
+outputs:
+boundary cells (.tif)
+modelled permafrost distribution (.tif)
+
+--------------
+REFERENCE: https://doi.org/10.5194/essd-2022-206
+Author: Zetao Cao (cao.zt(at)outlook.com)
