@@ -3,10 +3,10 @@ developed using R-4.1.1
 
 --------------
 Run on windows:
-run 'FROSTNUMCOP_sample.R'
+run 'FROSTNUMCOP.R'
 
 --------------
-SET UPs (in FROSTNUMCOP_sample.R)
+SET UPs (in FROSTNUMCOP.R)
 
 parameters:
 n_size: the size of the neighboring cells when defining boundary cell
