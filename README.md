@@ -10,6 +10,7 @@ Cao Z, Nan Z, Hu J, Chen Y, Zhang Y. A new 2010 permafrost distribution map over
 a benchmark for regional permafrost modeling. Earth System Science Data. 2023, https://doi.org/10.5194/essd-2022-206.
 
 The release v1.0-essd has been registered as https://doi.org/10.5281/zenodo.8301453.
+
 [![DOI](https://zenodo.org/badge/584066599.svg)](https://zenodo.org/badge/latestdoi/584066599)
 
 Zhuotong Nan
