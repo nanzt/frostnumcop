@@ -16,4 +16,7 @@ The release v1.0-essd has been registered as https://doi.org/10.5281/zenodo.8301
 [![DOI](https://zenodo.org/badge/584066599.svg)](https://zenodo.org/badge/latestdoi/584066599)
 
 Zhuotong Nan
+
+https://permalab.science
+
 Aug 30, 2023
